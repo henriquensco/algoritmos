@@ -4,3 +4,6 @@
 ### Ordenação por Seleção
 
 ### Recursão
+
+
+### Função lambda
