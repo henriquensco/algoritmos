@@ -3,7 +3,7 @@ def dicionario() -> dict:
         "nome": "Henrique",
         "idade": 20,
         "profissao": "Desenvolvedor",
-        "empresa": ""
+        "empresa": "Nula"
     }
 
     return dicio
