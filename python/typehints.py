@@ -8,4 +8,4 @@ def dicionario() -> dict:
 
     return dicio
 
-print(dicionario())
+#print(dicionario())
